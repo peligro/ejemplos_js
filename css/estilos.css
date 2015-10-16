@@ -1,0 +1,25 @@
+#texto1
+{
+    background-color: red;
+    color:#ffffff;
+}
+#cuadrado
+{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color:#ffffff;
+}
+.mostrar
+{
+    display:block;
+}
+.ocultar
+{
+    display:none;
+}
+.imagen
+{
+    width: 100px;
+    height: 100px;
+}
